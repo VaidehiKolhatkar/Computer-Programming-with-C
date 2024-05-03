@@ -39,7 +39,7 @@ void main()
 			{
 				c[i][j] = a[i][j] + b[i][j];
 			}
-	    }
+	}
 	
 		printf("sum of matrices a and b is\n");
 		for(i=0; i<r1; i++)
@@ -50,7 +50,7 @@ void main()
 			}
 		   		printf("\n");
 		}
-    }
+        }
 		
 	else
 	{
